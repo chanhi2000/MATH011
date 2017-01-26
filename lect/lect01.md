@@ -37,8 +37,8 @@ $$
 - __Definition of slope__:
 $$
 \begin{align*}
-m&=\frac{\Delta{y}}{\Delta{x}}
-&=\frac{y_2-y_1}{x_2-x_1}
+m&=\frac{\Delta{y}}{\Delta{x}}\\
+&=\frac{y_2-y_1}{x_2-x_1}\\
 &=\frac{\text{rise}}{\text{run}}
 \end{align*}
 $$
@@ -53,7 +53,7 @@ On a straight line, slope is *the same* regardless of which points are used to c
 
 ### Remark 2:
 We can interpret slope in
-- Proportionality factor, $$\Delta{y}=m\Delta{x}
+- Proportionality factor, _i.e._ $$\Delta{y}=m\Delta{x}$$
 - The __angle__ of indication that a line makes with the $$x$$-axis (or any horizontal line).
 
 > ### Implication:
